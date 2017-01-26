@@ -21,15 +21,18 @@ Sent: HELLO
 Received: HI
 
  Press Enter to continue...
+ 
 
 Sent: COUNT
 Received: 8
 
  Press Enter to continue...
+ 
 Sent: CONNECTIONS
 Received: 9
 
  Press Enter to continue...
+ 
 
 Sent: TERMINATE
 Received: BYE
