@@ -16,7 +16,9 @@ To install the service:
 To test the service open several command prompts and run the BioClient.exe from the bin folder (debug/release):
 
 The output should look like the following 
+
 C:\Test\COPY>BioClient.exe
+
 Sent: HELLO
 Received: HI
 
