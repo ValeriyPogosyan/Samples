@@ -49,7 +49,7 @@ TCPServer is the Server class. When "StartServer" method is called  this Server 
 
 The multhithreaded approach used in the solution allows to use TCP/IP sockets inside of the windows service - other approaches are prone to block the windows service preventing it's normal installation and usage.
 
-Event log records the evvents like start and stop. To open events log press CTRL+ALT+S from within of the VS and navigate to BioLog folder. BioSource folder will have event log enties.
+Event log records the events like start and stop. To open events log press CTRL+ALT+S from within of the VS and navigate to BioLog folder. BioSource folder will have event log enties.
 
 
 What else to do:
