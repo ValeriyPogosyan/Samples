@@ -1,4 +1,4 @@
-# BioConnect
+# Short description of the solution
 The solution contains two projects:
 
 - BioConnectService
